@@ -1,7 +1,0 @@
-TensorFlow路径下激活TensorFlow：
-  source bin/activate
-
-然后再进入python2.7环境
-
-用完关闭：
-  source deactivate
