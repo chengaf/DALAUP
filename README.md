@@ -11,7 +11,6 @@ If you find this method helpful for your research, please cite this paper:
                Li Guo},
   title     = {Deep Active Learning for Anchor User Prediction},
   booktitle = {The 28th International Joint Conference on Artificial Intelligence(IJCAI-19)},
-  # pages     = {?--?},
   year      = {2019}
 }
 ```
@@ -60,7 +59,7 @@ python feature_extract.py --data_path 'XXX' --save_file_path 'XXX' --restart_pro
 
 Two **separate** parts, both can predict anchor users.
 
-**AUP** evaluate by cosine similarity.
+**AUP:** Evaluate by cosine similarity.
 
 ```bash
 python model.py --feature_A 'XXX' --feature_B 'XXX' --total_anchor NUM --train_ratio 0.5 --gpu_id 4
@@ -69,17 +68,17 @@ python model.py --feature_A 'XXX' --feature_B 'XXX' --total_anchor NUM --train_r
 - The *feature_A/feature_B* is the file of users' structural context.
 -  The *total_anchor* is total number of anchor users.
 
-**AUP** evaluate by classiﬁcation.
+**AUP:** Evaluate by classiﬁcation.
 
 ​	Set the optional parameters *is_classification=True(default=False)* .
 
 ---
 
-**Note:**  Anchor users can be predicted with above steps(anyone, step1 is recommendatory).
+**Note:**  Anchor users can be predicted with above steps(Recommendatory: Evaluate by cosine similarity).
 
 ---
 
-####Active Learning
+#### Active Learning
 
 Coming Soon...
 
