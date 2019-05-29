@@ -72,8 +72,6 @@ python model.py --feature_A 'XXX' --feature_B 'XXX' --total_anchor NUM --train_r
 
 ​	Set the optional parameters *is_classification=True(default=False)* .
 
----
-
 **Note:**  Anchor users can be predicted with above steps(Recommendatory: Evaluate by cosine similarity).
 
 ---
