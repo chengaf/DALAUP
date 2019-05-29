@@ -78,12 +78,6 @@ python model.py --feature_A 'XXX' --feature_B 'XXX' --total_anchor NUM --train_r
 
 ---
 
-#### Active Learning
-
-Coming Soon...
-
----
-
 ### Disclaimer
 
 If you find any bugs,  please report them to me.
