@@ -2,7 +2,7 @@
 If you find this method helpful for your research, please cite this paper:
 
 ```latex
-@inproceedings{ChengZYW19,
+@inproceedings{cheng2019deep,
   author    = {Anfeng Cheng and
                Chuan Zhou and
                Hong Yang and
