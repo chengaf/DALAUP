@@ -80,4 +80,4 @@ python model.py --feature_A 'XXX' --feature_B 'XXX' --total_anchor NUM --train_r
 
 ### Disclaimer
 
-If you find any bugs,  please report them to me.
+If you find any bugs,  please report them to me. Feel free to contact chenganfeng AT iie.ac.cn.
