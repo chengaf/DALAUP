@@ -13,7 +13,7 @@ If you find this method helpful for your research, please cite this paper:
   title     = {Deep Active Learning for Anchor User Prediction},
   booktitle = {The 28th International Joint Conference on Artificial Intelligence(IJCAI-19)},
   year      = {2019},
-  url       = {https://arxiv.org/abs/1906.07318}
+  url       = {https://www.ijcai.org/proceedings/2019/0298.pdf}
 }
 ```
 
