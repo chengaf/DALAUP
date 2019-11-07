@@ -82,4 +82,4 @@ python model.py --feature_A 'XXX' --feature_B 'XXX' --total_anchor NUM --train_r
 
 If you find any bugs,  please report them to me. Feel free to contact chenganfeng AT iie.ac.cn.
 
-We have updated the Figure. 2 in our paper, we made a new typesetting on the figures in camera-ready and confused two evaluation metrics in Figure 2. We correct this in the revision which can be found in [arxiv](https://arxiv.org/abs/1906.07318). Thanks the PHD student Rui Tang from sichuan university for pointing this. (2019-11-07 Anfeng Cheng)
+We have updated the Fig.2 in our paper, we made a new typesetting on the figures in camera-ready and confused two evaluation metrics in Fig.2. We correct this in the revision which can be found in [arxiv](https://arxiv.org/abs/1906.07318). Thanks the PHD student Rui Tang from sichuan university for pointing this. (2019-11-07 Anfeng Cheng)
