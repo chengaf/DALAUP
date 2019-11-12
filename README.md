@@ -37,6 +37,8 @@ The dataset used in this paper can be obtained from the original papers.
 | ---------------------- | ------------------------------------------------------------ |
 | Foursquare and Twitter | Xiangnan Kong, Jiawei Zhang, and Philip S Yu. Inferring anchor links across multiple heterogeneous social networks. In Proceedings of the 22nd ACM international conference on Information & Knowledge Management, pages 179–188. ACM, 2013.<br>Zhang J, Kong X, Philip S Y. Predicting social links for new users across aligned heterogeneous social networks[C]//2013 IEEE 13th International Conference on Data Mining. IEEE, 2013: 1289-1294. |
 
+Dataset: https://github.com/ColaLL/IONE
+
 ---
 
 ### How to use
@@ -80,6 +82,7 @@ python model.py --feature_A 'XXX' --feature_B 'XXX' --total_anchor NUM --train_r
 
 ### Disclaimer
 
-If you find any bugs,  please report them to me. Feel free to contact chenganfeng AT iie.ac.cn.
+If you have any problems about the paper or the code,  please report them to me. Feel free to contact chenganfeng AT iie.ac.cn.
 
 We have updated the Fig.2 in our paper, we made a new typesetting on the figures in camera-ready and confused two evaluation metrics in Fig.2. We correct this in the revision which can be found in [arxiv](https://arxiv.org/abs/1906.07318). Thanks the PHD student Rui Tang from sichuan university for pointing this. (2019-11-07 Anfeng Cheng)
+
