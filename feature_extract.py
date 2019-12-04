@@ -36,7 +36,7 @@ def feature_ex(G, prob):
 
 def extract(paras):
     dataset = paras.data_path
-    prob = paras.prob
+    prob = paras.restart_probability
     save_file = paras.save_file
     f_sample_sample_interop = read_edge_pair(dataset)
     G = nx.Graph()
