@@ -56,7 +56,7 @@ def aup(paras):
     anchor_train_b_list = anchor_train
     input_a = []
     input_b = []
-    classifier_target = torch.empty(0, 0).to(device=cuda)
+    classifier_target = torch.empty(0).to(device=cuda)
     np.random.seed(5)
     index = 0
     while index < anchor_train_len:
